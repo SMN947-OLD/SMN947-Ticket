@@ -23,3 +23,7 @@ Este es un proyecto que busca crear un sistema de tickets para manejo de centros
   - Seccion de FAQ´s como recursos publicos de ayuda.
 
 Inicialmente no se hace mucho énfasis en la vinculación con servicios [SMTP](https://es.wikipedia.org/wiki/Protocolo_para_transferencia_simple_de_correo) o la función [PHPMail](http://php.net/manual/es/function.mail.php), solo se usarán mensajes **in-app** con facil vinculacion para notificaciones.
+
+#
+
+**Debido a que aún estoy aprendiendo PHP puede que el codigo sea poco convencional, pero la idea es aprender y refinarlo conforme pasa el tiempo**
